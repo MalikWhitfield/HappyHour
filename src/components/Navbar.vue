@@ -19,6 +19,8 @@
 </script>
 
 <style>
-
-
+    .logo-size {
+        width: 250px;
+        height: 250px;
+    }
 </style>
